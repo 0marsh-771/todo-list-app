@@ -23,4 +23,4 @@ All tasks and their selected dates are saved in the browser using LocalStorage, 
 -Add Filtering (All/ completed/ Active)
 -Improve UI styling
 ## Screenshot
-<img width="931" height="211" alt="Todo-screenshot" src="https://github.com/user-attachments/assets/575c1d60-e1fe-420c-91db-6bd731b839b4" />
+<img width="947" height="308" alt="Todo-screenshot" src="https://github.com/user-attachments/assets/347c1432-2117-48bc-babc-b7ad3a916a55" />
