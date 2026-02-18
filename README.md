@@ -1,4 +1,4 @@
-# todo-list-app
+# Todo-list-app
 Feature-rich Todo List app built with vanilla Javascript and LocalStroage
 This project allows users to manage their daily tasks with persistent storage using localStorage.
 ## Features 
